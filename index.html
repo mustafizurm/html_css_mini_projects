@@ -4,15 +4,53 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        *{
+            margin: 0px;
+            padding: 0px;
+            box-sizing: border-box;
+            text-decoration: none;
+        }
+        .container{
+            width: 100%;
+            margin: 40px auto;
+            display: flex;
+            column-gap: 10px;
+            row-gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .link{
+            padding: 10px 45px;
+            border: 2px solid gray;
+            cursor: pointer;
+            flex-grow: 1;
+        }
+        a{
+            font-size: 30px;
+        }
+    </style>
 </head>
 <body>
-    <a href="/1-fliping-card/1-project/index.html">Flipping-card</a>
-    <header>
-        <nav>
-            <ul>
-                <li><a href=""></a></li>
-            </ul>
-        </nav>
-    </header>
+        <div class="container">
+            <!-- flipping-card -->
+            <div class="link">
+                <a href="/1-fliping-card/1-project/index.html">Flipping-card(1)</a>
+            </div>
+            <div class="link">
+                <a href="/2- circle-progress bar/1-project/index.html">Circle-progress bar(1)</a>
+            </div>
+            <!-- progress-bar -->
+            <div class="link">
+                <a href="/2- circle-progress bar/2-project/index.html">Circle-progress-bar(2)</a>
+            </div>
+            <div class="link">
+                <a href="/3- card-slider/1-project/index.html">Card-slider(1)</a>
+            </div>
+            <div class="link">
+                <a href="/4-profile-card-design/1-project/index.html">Profile-card(1)</a>
+            </div>
+        </div>
 </body>
 </html>
