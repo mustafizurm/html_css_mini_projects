@@ -1,0 +1,128 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.tab-section{
+    width: 100%;
+    height: 100vh;
+    background-color: violet;
+}
+
+.tab-container{
+    width: 800px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: white;
+    padding: 40px 36px;
+    border-radius: 5px;
+}
+
+.content{
+    width: 100%;
+}
+
+.content h1{
+
+}
+
+.tabs{
+    width: 100%;
+    display: flex;
+    margin-top: 30px;
+}
+
+.tabs .menu{
+    width: 130px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+
+.tabs .menu div{
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+div i{
+    margin-right: 8px;
+    font-size: 20px;
+}
+
+.tabs .menu div:hover{
+    background-color: indigo;
+}
+
+.tabs .menu div:hover i{
+    color: white;
+}
+
+.tabs .menu div:hover h1{
+    color: white;
+}
+
+.tabs .menu h1{
+    font-size: 20px;
+    color: black;
+}
+
+.tabs .details{
+    width:700px;
+    padding-left: 40px;
+}
+
+.menu .home{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: indigo;
+}
+
+.menu .home i{
+    color: white;
+}
+
+.menu .home h1{
+    color: white;
+}
+
+.menu .blog{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu .help{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu .code{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu .about{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.details h1{
+    margin-bottom: 10px;
+}

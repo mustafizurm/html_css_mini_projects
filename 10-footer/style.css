@@ -1,0 +1,171 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* .footer-section{
+    width: 100%;
+    height: 400px;
+    background-color: yellowgreen;
+    position: relative;
+    top:400px;
+}
+
+.heading-container{
+    width: 1200px;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.heading-container .left{
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+
+.heading-container .right{
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+
+.heading-container .right i{
+    margin-left:16px;
+    color: white;
+    font-size: 25px;
+    padding: 6px;
+    border-radius: 50%;
+
+}
+
+.heading-container .right .fa-facebook{
+    background-color: indigo;
+    font-size: 20px;
+}
+
+.fa-youtube{
+    background-color: red;
+}
+
+.fa-twitter{
+    background-color: indigo;
+}
+
+section hr{
+    color: gray;
+    border: 2px solid gray;
+}
+
+
+
+.details-container{
+    width: 1200px;
+    margin: 0px auto;
+} */
+
+
+.footer-section{
+    width: 100%;
+    height: 500px;
+    background-color:indigo;
+}
+
+.heading-container{
+    width: 1200px;
+    margin: 0px auto;
+    display: flex;
+    align-items: center;
+}
+
+.heading-container .left{
+    height: 80px;
+    width: 1000px;
+    display: flex;
+    align-items: center;
+}
+
+.heading-container .left h1{
+    font-size: 33px;
+    color: white;
+}
+
+.heading-container .right{
+    height: 80px;
+    width:200px;
+    display: flex;
+    align-items: center;
+}
+
+.heading-container .right  i{
+    margin-right:20px;
+    font-size: 23px;
+    border-radius: 50%;
+    color: white;
+    padding: 5px;
+    cursor: pointer;
+}
+
+
+
+
+.fa-instagram{
+    background-color: #F9CE34;
+}
+
+.fa-facebook{
+    background-color: #39569c;
+}
+
+.fa-youtube{
+    background-color: red;
+}
+
+.fa-twitter{
+    background-color: #1DA1F2;
+}
+
+.fa-linkedin{
+    background-color: #0E76A8;
+}
+
+
+
+
+
+
+.details-container{
+    width: 1200px;
+    margin: 0px auto;
+    margin-top: 30px;
+    display: flex;
+}
+
+.details-container div{
+    width: 240px;
+}
+
+.details-container div h4{
+    font-size: 23px;
+    color: white;
+}
+
+.details-container div p{
+    color: white;
+    margin-top: 14px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.subscribe input{
+    width: 100%;
+    padding: 8px 8px;
+    margin-bottom: 4px;
+}
+
+.subscribe .email{
+    background-color: indigo;
+    border: 2px solid white;
+    color: white;
+}
