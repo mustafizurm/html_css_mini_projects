@@ -13,6 +13,7 @@ Welcome to my Mini Projects Collection! This repository showcases a variety of s
 6. [Card Slider 1](#Card-Slider-1)
 7. [Profile Card 1](#Profile-card-1)
 8. [Sidebar Menu 1](#Sidebar-Menu-1)
+9. [Login form 1](#Login-form-1)
 
 
 
@@ -54,6 +55,11 @@ Welcome to my Mini Projects Collection! This repository showcases a variety of s
 - **Live Demo:** [[Live Link]()](#)
 
 ### Sidebar Menu 1
+- **Description:** A brief overview of what this project does and any interesting technologies or concepts used.
+- **Code:** [[GitHub Link][GitHub Link]()](#)
+- **Live Demo:** [[Live Link]()](#)
+
+### Login form 1
 - **Description:** A brief overview of what this project does and any interesting technologies or concepts used.
 - **Code:** [[GitHub Link][GitHub Link]()](#)
 - **Live Demo:** [[Live Link]()](#)
