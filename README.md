@@ -17,6 +17,11 @@ Welcome to my Mini Projects Collection! This repository showcases a variety of s
 10. [Contact form 1](#Contact-form-1)
 11. [Search Box 1](#Search-Box-1) 
 12. [Tab 1](#Tab-1)
+13. [Footer 1](#Footer-1)
+14. [Verticle timeline 1](#Verticle-Timeline-1)
+15. [Count down 1](#Count-Down-1)
+16. [Card Design 1](#Card-Design-1)
+17. [Accourdiam 1](#Accourdiam-1)
 
 
 
@@ -84,6 +89,34 @@ Welcome to my Mini Projects Collection! This repository showcases a variety of s
 - **Code:** [[GitHub Link][GitHub Link]()](#)
 - **Live Demo:** [[Live Link]()](#)
 
+### Footer 1
+- **Description:** A brief overview of what this project does and any interesting technologies or concepts used.
+- **Code:** [[GitHub Link][GitHub Link]()](#)
+- **Live Demo:** [[Live Link]()](#)
+
+### Verticle Timeline 1
+- **Description:** A brief overview of what this project does and any interesting technologies or concepts used.
+- **Code:** [[GitHub Link][GitHub Link]()](#)
+- **Live Demo:** [[Live Link]()](#)
+
+### Count Down 1
+- **Description:** A brief overview of what this project does and any interesting technologies or concepts used.
+- **Code:** [[GitHub Link][GitHub Link]()](#)
+- **Live Demo:** [[Live Link]()](#)
+
+
+### Card Design 1
+- **Description:** A brief overview of what this project does and any interesting technologies or concepts used.
+- **Code:** [[GitHub Link][GitHub Link]()](#)
+- **Live Demo:** [[Live Link]()](#)
+
+
+### Accourdiam 1
+- **Description:** A brief overview of what this project does and any interesting technologies or concepts used.
+- **Code:** [[GitHub Link][GitHub Link]()](#)
+- **Live Demo:** [[Live Link]()](#)
+
+    
 ## Getting Started
 
 If you want to clone this repository and run the projects locally, follow these steps:
