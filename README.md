@@ -22,6 +22,20 @@ Welcome to my Mini Projects Collection! This repository showcases a variety of s
 - **Code:** [[GitHub Link][GitHub Link]()](#)
 - **Live Demo:** [[Live Link]()](#)
 
+### Circle-progress bar 1
+- **Description:** A brief overview of what this project does and any interesting technologies or concepts used.
+- **Code:** [[GitHub Link][GitHub Link]()](#)
+- **Live Demo:** [[Live Link]()](#)
+
+### Circle-progress bar 2
+- **Description:** A brief overview of what this project does and any interesting technologies or concepts used.
+- **Code:** [[GitHub Link][GitHub Link]()](#)
+- **Live Demo:** [[Live Link]()](#)
+
+### Circle-progress bar 3
+- **Description:** A brief overview of what this project does and any interesting technologies or concepts used.
+- **Code:** [[GitHub Link][GitHub Link]()](#)
+- **Live Demo:** [[Live Link]()](#)
 
 ## Getting Started
 
