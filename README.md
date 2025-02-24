@@ -5,7 +5,7 @@ Welcome to my Mini Projects Collection! This repository showcases a variety of s
 
 ## Table of Contents
 
-1. [Fliping card 1](#fliping card 1)
+1. [Fliping card 1](#Fliping card 1)
 2. [Fliping card 2](#todo-2)
 3. [Filter 1](#Filter-1)
 4. [Testimonium 1](#testimonium-1)
