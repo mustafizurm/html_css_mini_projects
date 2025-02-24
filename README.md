@@ -5,8 +5,8 @@ Welcome to my Mini Projects Collection! This repository showcases a variety of s
 
 ## Table of Contents
 
-1. [Todo 1](#todo-1)
-2. [Todo 2](#todo-2)
+1. [Fliping card 1](#fliping card 1)
+2. [Fliping card 2](#todo-2)
 3. [Filter 1](#Filter-1)
 4. [Testimonium 1](#testimonium-1)
 5. [Testimonium 2](#testimonium-2)
@@ -17,7 +17,7 @@ Welcome to my Mini Projects Collection! This repository showcases a variety of s
 
 ## Projects
 
-### Todo 1
+### Fliping card 1
 - **Description:** A brief overview of what this project does and any interesting technologies or concepts used.
 - **Code:** [[GitHub Link](https://github.com/mustafizurm/javascript_mini_projects/tree/main/1-todo/1-project)](#)
 - **Live Demo:** [[Live Link](https://4-all-javascript-mini-projects.netlify.app/1-todo/1-project/)](#)
