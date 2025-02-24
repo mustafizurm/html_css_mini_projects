@@ -7,6 +7,9 @@ Welcome to my Mini Projects Collection! This repository showcases a variety of s
 
 1. [Fliping card 1](#Fliping-card-1)
 2. [Fliping card 2](#Fliping-card-2)
+3. [Circle-progress bar 1](#Circle-progress-bar-1)
+4. [Circle-progress bar 2](#Circle-progress-bar-2)
+5. [Circle-progress bar 3](#Circle-progress-bar-3)
 
 
 
