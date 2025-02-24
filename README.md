@@ -10,6 +10,7 @@ Welcome to my Mini Projects Collection! This repository showcases a variety of s
 3. [Circle-progress bar 1](#Circle-progress-bar-1)
 4. [Circle-progress bar 2](#Circle-progress-bar-2)
 5. [Circle-progress bar 3](#Circle-progress-bar-3)
+6. [Card Slider 1](#Card-Slider-1)
 
 
 
@@ -36,6 +37,11 @@ Welcome to my Mini Projects Collection! This repository showcases a variety of s
 - **Live Demo:** [[Live Link]()](#)
 
 ### Circle-progress bar 3
+- **Description:** A brief overview of what this project does and any interesting technologies or concepts used.
+- **Code:** [[GitHub Link][GitHub Link]()](#)
+- **Live Demo:** [[Live Link]()](#)
+
+### Card Slider 1
 - **Description:** A brief overview of what this project does and any interesting technologies or concepts used.
 - **Code:** [[GitHub Link][GitHub Link]()](#)
 - **Live Demo:** [[Live Link]()](#)
