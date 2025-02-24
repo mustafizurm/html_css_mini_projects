@@ -7,12 +7,7 @@ Welcome to my Mini Projects Collection! This repository showcases a variety of s
 
 1. [Fliping card 1](#Fliping-card-1)
 2. [Fliping card 2](#Fliping-card-2)
-3. [Filter 1](#Filter-1)
-4. [Testimonium 1](#testimonium-1)
-5. [Testimonium 2](#testimonium-2)
-6. [Slider 1](#slider-1)
-7. [Calculator 1](#calculator-1)
-8. [Food recipe app 1](#food-recipe-1)
+
 
 
 ## Projects
@@ -27,35 +22,6 @@ Welcome to my Mini Projects Collection! This repository showcases a variety of s
 - **Code:** [[GitHub Link][GitHub Link]()](#)
 - **Live Demo:** [[Live Link]()](#)
 
-### Filter 1
-- **Description:** A brief overview of what this project does and any interesting technologies or concepts used.
-- **Code:** [[GitHub Link](https://github.com/mustafizurm/javascript_mini_projects/tree/main/2-filter/1-project)](#)
-- **Live Demo:** [[Live Link](https://4-all-javascript-mini-projects.netlify.app/2-filter/1-project/)](#)
-
-### Testimonium 1
-- **Description:** A brief overview of what this project does and any interesting technologies or concepts used.
-- **Code:** [[GitHub Link](https://github.com/mustafizurm/javascript_mini_projects/tree/main/3-testimonium/1-project)](#)
-- **Live Demo:** [[Live Link](https://4-all-javascript-mini-projects.netlify.app/3-testimonium/1-project/)](#)
-
-### Testimonium 2
-- **Description:** A brief overview of what this project does and any interesting technologies or concepts used.
-- **Code:** [[GitHub Link](https://github.com/mustafizurm/javascript_mini_projects/tree/main/3-testimonium/2-project)](#)
-- **Live Demo:** [[Live Link](https://4-all-javascript-mini-projects.netlify.app/3-testimonium/2-project/)](#) 
-
- ### Slider 1
-- **Description:** A brief overview of what this project does and any interesting technologies or concepts used.
-- **Code:** [[GitHub Link](https://github.com/mustafizurm/javascript_mini_projects/tree/main/4-slider/1-project)](#)
-- **Live Demo:** [[Live Link](https://4-all-javascript-mini-projects.netlify.app/4-slider/1-project)](#)
-
- ### Calculator 1
-- **Description:** A brief overview of what this project does and any interesting technologies or concepts used.
-- **Code:** [[GitHub Link](https://github.com/mustafizurm/javascript_mini_projects/tree/main/5-calculator/1-project)](#)
-- **Live Demo:** [[Live Link](https://4-all-javascript-mini-projects.netlify.app/5-calculator/1-project/)](#) 
-
- ### food-recipe 1
-- **Description:** A brief overview of what this project does and any interesting technologies or concepts used.
-- **Code:** [[GitHub Link](https://github.com/mustafizurm/javascript_mini_projects/tree/main/5-calculator/1-project)](#)
-- **Live Demo:** [[Live Link](https://4-all-javascript-mini-projects.netlify.app/5-calculator/1-project/)](#) 
 
 ## Getting Started
 
