@@ -14,8 +14,9 @@ Welcome to my Mini Projects Collection! This repository showcases a variety of s
 7. [Profile Card 1](#Profile-card-1)
 8. [Sidebar Menu 1](#Sidebar-Menu-1)
 9. [Login form 1](#Login-form-1)
-10. [Search Box 1](#Search-Box-1) 
-11. [Tab 1](#Tab-1)
+10. [Contact form 1](#Contact-form-1)
+11. [Search Box 1](#Search-Box-1) 
+12. [Tab 1](#Tab-1)
 
 
 
@@ -67,6 +68,11 @@ Welcome to my Mini Projects Collection! This repository showcases a variety of s
 - **Code:** [[GitHub Link][GitHub Link]()](#)
 - **Live Demo:** [[Live Link]()](#)
 
+
+### Contact form 1
+- **Description:** A brief overview of what this project does and any interesting technologies or concepts used.
+- **Code:** [[GitHub Link][GitHub Link]()](#)
+- **Live Demo:** [[Live Link]()](#)
 
 ### Search Box 1
 - **Description:** A brief overview of what this project does and any interesting technologies or concepts used.
